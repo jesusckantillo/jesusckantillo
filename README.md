@@ -1,4 +1,4 @@
-## System.out.println("Hola,soy Jesús);
+## System.out.println("Hi,im Jesús);
 
 *Hi, I'm Jesus* 👋
 I'm a systems engineering student with a passion for programming and software development. My favorite language is Python and I enjoy working on projects related to object-oriented programming and data analysis.
