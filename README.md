@@ -7,3 +7,4 @@ About me
 * I am currently pursuing my degree in systems engineering at Uninorte.
 * I have worked on personal projects using Python, such as desktop applications and task automation.
 * I also have experience in web development using HTML, CSS, and JavaScript.
+* I try to learn something new every day
