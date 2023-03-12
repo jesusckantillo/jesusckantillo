@@ -9,4 +9,4 @@ About me
 * I also have experience in web development using HTML, CSS, and JavaScript.
 * I try to learn something new every day 
 * I'm currently learning Java 
-SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+
